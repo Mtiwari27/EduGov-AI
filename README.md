@@ -6,6 +6,8 @@ The application combines **Sentence Transformers**, **FAISS**, and **Google Gemi
 
 ---
 
+[🚀 Live Demo](https://edugov-ai.streamlit.app)
+
 ## ✨ Features
 
 - 📄 Search across government education documents using natural language
