@@ -63,6 +63,7 @@ pydantic_core
 pydeck
 Pygments
 pyparsing
+python-dotenv
 python-dateutil
 python-multipart
 PyYAML
